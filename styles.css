@@ -14,11 +14,12 @@ body {
 /* Định dạng tiêu đề */
 h2 {
   text-align: center;
-  color: #4CAF50;
+  color: #0915bd;
   font-size: 1.6em;
   margin-bottom: 20px;
   font-weight: 700;
   letter-spacing: 0.05em;
+
 }
 
 /* Định dạng container chính */
